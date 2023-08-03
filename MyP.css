@@ -1,0 +1,36 @@
+
+body{
+    background-color: rgb(17, 15, 15);
+}
+
+
+
+h1{
+    color: rgb(238, 69, 69);
+    background-color: rgb(226, 122, 143);
+    font-family:cursive;
+    text-align: center;
+
+ }
+    
+
+  
+    p{
+        color: rgb(238, 69, 69);
+    }
+
+
+
+h2{
+    color: rgb(121, 121, 230);
+}
+
+ol{
+    color:  rgb(238, 69, 69);
+}
+
+
+ul{
+    color:  rgb(238, 69, 69);
+}
+
