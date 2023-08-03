@@ -1,36 +1,39 @@
-
-body{
-    background-color: rgb(17, 15, 15);
+body {
+  background-color: rgb(17, 15, 15);
 }
 
-
-
-h1{
-    color: rgb(238, 69, 69);
-    background-color: rgb(226, 122, 143);
-    font-family:cursive;
-    text-align: center;
-
- }
-    
-
-  
-    p{
-        color: rgb(238, 69, 69);
-    }
-
-
-
-h2{
-    color: rgb(121, 121, 230);
+h1 {
+  color: rgb(238, 69, 69);
+  background-color: rgb(5, 4, 5);
+  font-family: cursive;
+  text-align: center;
 }
 
-ol{
-    color:  rgb(238, 69, 69);
+p {
+  color: rgb(238, 69, 69);
 }
 
-
-ul{
-    color:  rgb(238, 69, 69);
+h2 {
+  color: rgb(121, 121, 230);
 }
 
+ol {
+  color: rgb(238, 69, 69);
+}
+
+ul {
+  color: rgb(238, 69, 69);
+}
+
+.navbar {
+  background-color: rgb(85, 80, 80);
+  color: aliceblue;
+}
+
+li.navitem a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
