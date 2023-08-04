@@ -16,13 +16,15 @@ h1 {
 p {
   font-weight: bolder;
   color: rgb(3, 3, 3);
-  margin: 15% 15%;
+  margin: 0% 15%;
   padding: 2%;
   text-align: center;
 }
 
 h2 {
-  font-weight: 100;
+  font-family: "Caveat";
+
+  font-size: 50px;
   color: rgb(247, 242, 242);
   text-align: center;
 }
@@ -43,10 +45,10 @@ ol {
 
 .navbar {
   list-style-type: none;
-  display: block;
+  display: flex;
   background-color: rgba(53, 51, 187, 0.288);
   color: rgb(10, 10, 10);
-  margin: 45px 150px;
+  margin: 45px;
   border-radius: 35px;
 }
 
@@ -56,10 +58,15 @@ li.navitem a {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   margin: 0px 35px;
   padding: 45px 45px;
-
   text-decoration: none;
 }
 
 li.navitem a:hover {
   color: rgb(0, 0, 0);
+}
+
+footer p {
+  color: rgb(241, 239, 237);
+  text-align: center;
+  font-size: large;
 }
